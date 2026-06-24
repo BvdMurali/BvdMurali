@@ -2,7 +2,7 @@
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-spacing: 0px; border: none; font-family: monospace;">
 <tr style="border: none; background: transparent;">
 <td align="left" style="border: none; padding: 10px; color: #3fb950; font-size: 11px; font-weight: bold;">
-🟢 SYSTEM STATUS: ACTIVE // HOST: BVD_MURALI_AI
+🟢 SYSTEM ONLINE
 </td>
 <td align="right" style="border: none; padding: 10px; color: #8b949e; font-size: 11px;">
 LOCATION: INDIA // TIMEZONE: GMT+5:30
@@ -18,8 +18,8 @@ LOCATION: INDIA // TIMEZONE: GMT+5:30
 <td width="55%" valign="top" style="border: none; padding-right: 20px;">
 <h1 align="left">BODDETI VEERA DURGA MURALI</h1>
 <h3 align="left">AI & MACHINE LEARNING ENGINEER</h3>
-<p align="left" style="color: #8b949e; font-size: 14px; line-height: 1.5;">
-Building intelligent, production-grade systems with NLP, LLMs, Agentic AI, and scalable MLOps architectures.
+<p align="left" style="color: #8b949e; font-size: 14px; line-height: 1.5; margin-top: 10px;">
+Building production-grade intelligent systems with NLP, LLMs, Agentic AI, Retrieval-Augmented Generation, and scalable MLOps architectures.
 </p>
 <br>
 <p align="left">
@@ -27,19 +27,31 @@ Building intelligent, production-grade systems with NLP, LLMs, Agentic AI, and s
 <a href="https://github.com/BvdMurali"><img src="https://img.shields.io/badge/GitHub-BvdMurali-bc8cff?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 <br>
-<p align="left">
-<code>Python</code> &nbsp;•&nbsp; 
-<code>TensorFlow</code> &nbsp;•&nbsp; 
+<p align="left" style="margin-top: 10px;">
+<code>LLM Engineering</code> &nbsp;•&nbsp; 
+<code>Agentic AI</code> &nbsp;•&nbsp; 
+<code>RAG Systems</code> &nbsp;•&nbsp; 
+<code>MLOps</code> &nbsp;•&nbsp; 
 <code>Azure OpenAI</code> &nbsp;•&nbsp; 
-<code>LangChain</code> &nbsp;•&nbsp; 
-<code>RAG</code> &nbsp;•&nbsp; 
-<code>Agentic AI</code>
+<code>Production AI</code>
 </p>
 </td>
-<td width="45%" align="center" valign="middle" style="border: none; padding-left: 20px;">
-<img src="portrait.png" width="180" style="border-radius: 50%; border: 3px solid #30363d; box-shadow: 0 8px 24px rgba(0,0,0,0.5);" alt="Boddeti Veera Durga Murali" />
-<br><br>
-<code style="font-size: 10px; color: #8b949e;">[PORTRAIT_DECRYPTED]</code>
+<td width="45%" valign="top" style="border: 1px solid #30363d; padding: 15px; border-radius: 8px; background-color: #0d1117;">
+<h4 style="margin-top: 0; color: #58a6ff; font-size: 12px; letter-spacing: 0.5px; text-transform: uppercase;">💼 Current Role</h4>
+<p style="font-size: 13.5px; margin-top: 4px; margin-bottom: 12px; color: #f0f6fc;">
+<b>AI & Machine Learning Intern</b><br>
+<span style="color: #8b949e;">@ ProArch</span>
+</p>
+<h4 style="color: #bc8cff; font-size: 12px; letter-spacing: 0.5px; text-transform: uppercase;">🛸 Current Project</h4>
+<p style="font-size: 13px; margin-top: 4px; margin-bottom: 12px; color: #f0f6fc;">
+<b>Project Jarvis</b><br>
+<span style="color: #8b949e;">AI-native automation platform powered by Agentic AI and Azure OpenAI.</span>
+</p>
+<h4 style="color: #58a6ff; font-size: 12px; letter-spacing: 0.5px; text-transform: uppercase;">🎯 Focus Areas</h4>
+<p style="font-size: 12px; line-height: 1.5; margin-top: 4px; margin-bottom: 0; color: #8b949e;">
+<code>Agentic AI</code> • <code>Azure OpenAI</code> • <code>RAG Systems</code><br>
+<code>NLP</code> • <code>MLOps</code> • <code>Intelligent Automation</code>
+</p>
 </td>
 </tr>
 </table>
@@ -61,6 +73,61 @@ Building intelligent, production-grade systems with NLP, LLMs, Agentic AI, and s
 
 ---
 
+## 💼 Professional Experience
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
+<tr style="border: none; background: transparent;">
+<td style="border: 1px solid #30363d; padding: 20px; border-radius: 8px; background-color: #0d1117;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
+<tr style="border: none; background: transparent;">
+<td valign="top" style="border: none;">
+<h3 style="margin-top: 0; color: #58a6ff; font-size: 18px;">AI & Machine Learning Intern</h3>
+<h4 style="color: #8b949e; margin-top: 2px; font-weight: normal; font-size: 14px;">ProArch &nbsp;•&nbsp; 2025 - Present</h4>
+<p style="color: #f0f6fc; font-size: 13.5px; line-height: 1.5; margin-top: 10px;">
+Working on <b>Project Jarvis</b>, an AI-native automation platform combining Agentic AI capabilities with Azure OpenAI services.
+</p>
+</td>
+</tr>
+<tr style="border: none; background: transparent;">
+<td valign="top" style="border: none; padding-top: 15px;">
+<h4 style="color: #bc8cff; font-size: 14px; margin-top: 0;">🔑 Key Contributions</h4>
+<ul style="font-size: 13px; line-height: 1.6; color: #8b949e; margin-top: 6px; padding-left: 20px;">
+<li>Built AI-powered dashboards to monitor orchestration execution logs.</li>
+<li>Integrated Azure OpenAI services for multi-step agent planning.</li>
+<li>Improved Cosmos DB storage latency and index layouts.</li>
+<li>Supported production ML model workflows and pipeline triggers.</li>
+<li>Developed intelligent automation systems using autonomous loops.</li>
+</ul>
+</td>
+</tr>
+<tr style="border: none; background: transparent;">
+<td valign="top" style="border: none; padding-top: 15px;">
+<h4 style="color: #58a6ff; font-size: 14px; margin-top: 0; margin-bottom: 10px;">⚡ Business Impact</h4>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
+<tr style="border: none; background: transparent;">
+<td width="33%" style="border: none; padding: 10px; text-align: center; border-right: 1px solid #30363d;">
+<span style="font-size: 24px; font-weight: bold; color: #3fb950; font-family: monospace;">50%</span><br>
+<span style="font-size: 11px; color: #8b949e;">API Performance Improvement</span>
+</td>
+<td width="33%" style="border: none; padding: 10px; text-align: center; border-right: 1px solid #30363d;">
+<span style="font-size: 24px; font-weight: bold; color: #58a6ff; font-family: monospace;">40%</span><br>
+<span style="font-size: 11px; color: #8b949e;">Database Query Optimization</span>
+</td>
+<td width="33%" style="border: none; padding: 10px; text-align: center;">
+<span style="font-size: 24px; font-weight: bold; color: #bc8cff; font-family: monospace;">30%</span><br>
+<span style="font-size: 11px; color: #8b949e;">AI Accuracy Improvement</span>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+---
+
 ## ⚙️ Main Dashboard Panel
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
@@ -74,21 +141,18 @@ Building intelligent, production-grade systems with NLP, LLMs, Agentic AI, and s
 <li><b>NLP & Conversational AI:</b> Building intent classifiers and entity extraction models for reliable user routing.</li>
 <li><b>Production AI:</b> Designing scalable cloud endpoints, robust containerization, and automated workflows.</li>
 </ul>
-<h3>🔬 Research Interests</h3>
-<table width="100%">
-<tr style="background: transparent;">
-<td style="padding: 6px; font-size: 12px; border: 1px solid #30363d;">🛸 <b>Agentic AI</b></td>
-<td style="padding: 6px; font-size: 12px; border: 1px solid #30363d;">📂 <b>RAG Architecture</b></td>
-</tr>
-<tr style="background: transparent;">
-<td style="padding: 6px; font-size: 12px; border: 1px solid #30363d;">⚙️ <b>LLM Fine-Tuning</b></td>
-<td style="padding: 6px; font-size: 12px; border: 1px solid #30363d;">🛡️ <b>Responsible AI</b></td>
-</tr>
-<tr style="background: transparent;">
-<td style="padding: 6px; font-size: 12px; border: 1px solid #30363d;">📊 <b>Rec Systems</b></td>
-<td style="padding: 6px; font-size: 12px; border: 1px solid #30363d;">📈 <b>Predictive Models</b></td>
-</tr>
-</table>
+<br>
+<h3>🔬 Current Research Focus</h3>
+<ul>
+<li><b>Multi-Agent Orchestration</b></li>
+<li><b>Long-Context RAG Systems</b></li>
+<li><b>Tool Calling Agents</b></li>
+<li><b>Retrieval Optimization</b></li>
+<li><b>AI Evaluation Frameworks</b></li>
+<li><b>Responsible AI Deployment</b></li>
+<li><b>Recommendation Systems</b></li>
+<li><b>Predictive Analytics</b></li>
+</ul>
 </td>
 <td width="52%" valign="top" style="border: none; padding-left: 15px;">
 <h3>🛠️ AI Engineering Stack</h3>
@@ -158,7 +222,7 @@ Building intelligent, production-grade systems with NLP, LLMs, Agentic AI, and s
 <td width="50%" valign="top" style="border: 1px solid #30363d; padding: 15px; border-radius: 8px;">
 <div align="right"><code style="font-size: 10px; color: #3fb950; border: 1px solid #238636; padding: 2px 6px; border-radius: 4px;">PRODUCTION</code></div>
 <h4>📂 Enterprise RAG System</h4>
-<p style="color: #8b949e; font-size: 13px;">
+<p style="color: #8b949e; font-size: 13px; margin-top: 10px;">
 A high-efficiency semantic query pipeline resolving queries on unstructured company databases. Integrates caching and vector search optimization.
 </p>
 <sub>
@@ -168,7 +232,7 @@ A high-efficiency semantic query pipeline resolving queries on unstructured comp
 <td width="50%" valign="top" style="border: 1px solid #30363d; padding: 15px; border-radius: 8px;">
 <div align="right"><code style="font-size: 10px; color: #58a6ff; border: 1px solid #388bfd; padding: 2px 6px; border-radius: 4px;">STABLE</code></div>
 <h4>📂 Prompt Pilot</h4>
-<p style="color: #8b949e; font-size: 13px;">
+<p style="color: #8b949e; font-size: 13px; margin-top: 10px;">
 Visual hub for prompt versioning, system template evaluations, parameter optimization runs, and workflow deployment triggers.
 </p>
 <sub>
@@ -180,7 +244,7 @@ Visual hub for prompt versioning, system template evaluations, parameter optimiz
 <td width="50%" valign="top" style="border: 1px solid #30363d; padding: 15px; border-radius: 8px;">
 <div align="right"><code style="font-size: 10px; color: #bc8cff; border: 1px solid #8957e5; padding: 2px 6px; border-radius: 4px;">ACTIVE</code></div>
 <h4>📂 Project Jarvis</h4>
-<p style="color: #8b949e; font-size: 13px;">
+<p style="color: #8b949e; font-size: 13px; margin-top: 10px;">
 Autonomous agent platform utilizing Azure OpenAI and Cosmos DB. Performs complex schedules, code sandbox self-debugging, and schema resolving.
 </p>
 <sub>
@@ -190,7 +254,7 @@ Autonomous agent platform utilizing Azure OpenAI and Cosmos DB. Performs complex
 <td width="50%" valign="top" style="border: 1px solid #30363d; padding: 15px; border-radius: 8px;">
 <div align="right"><code style="font-size: 10px; color: #8b949e; border: 1px solid #30363d; padding: 2px 6px; border-radius: 4px;">COMPLETED</code></div>
 <h4>📂 University Chatbot</h4>
-<p style="color: #8b949e; font-size: 13px;">
+<p style="color: #8b949e; font-size: 13px; margin-top: 10px;">
 NLP-driven routing bot classifying intent models and extracting entity keywords to answer structured campus registry datasets.
 </p>
 <sub>
@@ -223,6 +287,42 @@ NLP-driven routing bot classifying intent models and extracting entity keywords 
 <li>📜 <b>SQL Intermediate</b> <code style="color: #3fb950; font-size: 10px;">VERIFIED</code></li>
 <li>🤖 <b>Deep Learning Specialization</b> <code style="color: #58a6ff; font-size: 10px;">IN_PROGRESS</code></li>
 </ul>
+</td>
+</tr>
+</table>
+
+---
+
+## 📅 Career Journey
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; text-align: center; font-family: monospace;">
+<tr style="background: transparent;">
+<td style="border: none; padding: 10px; width: 18%;"><b>2021</b><br>🎓 Started B.Tech CSE</td>
+<td style="border: none; padding: 10px; color: #58a6ff; width: 5%;">➔</td>
+<td style="border: none; padding: 10px; width: 18%;"><b>2025</b><br>📜 Graduated B.Tech</td>
+<td style="border: none; padding: 10px; color: #bc8cff; width: 5%;">➔</td>
+<td style="border: none; padding: 10px; width: 18%;"><b>2025</b><br>💼 Joined ProArch</td>
+<td style="border: none; padding: 10px; color: #58a6ff; width: 5%;">➔</td>
+<td style="border: none; padding: 10px; width: 18%;"><b>2026</b><br>🛸 Building Jarvis</td>
+<td style="border: none; padding: 10px; color: #bc8cff; width: 5%;">➔</td>
+<td style="border: none; padding: 10px; width: 18%;"><b>Future</b><br>🚀 AI Engineer</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Let's Connect
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
+<tr style="border: none; background: transparent;">
+<td style="border: 1px solid #30363d; padding: 20px; border-radius: 8px; background-color: #0d1117; text-align: center;">
+<p style="font-size: 15px; margin-top: 0; color: #f0f6fc;"><b>Open to opportunities in:</b></p>
+<p style="font-size: 14px; color: #58a6ff; margin-top: 6px;">
+<b>AI Engineering &nbsp;•&nbsp; Machine Learning Engineering &nbsp;•&nbsp; LLM Engineering &nbsp;•&nbsp; Generative AI &nbsp;•&nbsp; Applied AI</b>
+</p>
+<p style="font-size: 13.5px; color: #8b949e; margin-top: 10px; margin-bottom: 0; line-height: 1.5;">
+Let's collaborate on building the next generation of intelligent systems. Feel free to reach out via <a href="mailto:bvdmurali@gmail.com" style="color: #bc8cff; text-decoration: none; font-weight: bold;">Email</a> or connect on <a href="https://github.com/BvdMurali" style="color: #58a6ff; text-decoration: none; font-weight: bold;">GitHub</a>.
+</p>
 </td>
 </tr>
 </table>
