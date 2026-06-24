@@ -227,29 +227,6 @@ Visual hub for prompt versioning, system template evaluations, parameter optimiz
 <code>Prompt Engineering</code> • <code>LLM Evaluation</code> • <code>AI Workflows</code>
 </sub>
 </td>
-</tr>
-<tr style="border: none; background: transparent;">
-<td width="50%" valign="top" style="border: 1px solid #30363d; padding: 15px; border-radius: 8px;">
-<div align="right"><code style="font-size: 10px; color: #bc8cff; border: 1px solid #8957e5; padding: 2px 6px; border-radius: 4px;">ACTIVE</code></div>
-<h4>📂 Project Jarvis</h4>
-<p style="color: #8b949e; font-size: 13px; margin-top: 10px;">
-Autonomous agent platform utilizing Azure OpenAI and Cosmos DB. Performs complex schedules, code sandbox self-debugging, and schema resolving.
-</p>
-<sub>
-<code>Agentic AI</code> • <code>Azure OpenAI</code> • <code>Cosmos DB</code> • <code>Next.js</code>
-</sub>
-</td>
-<td width="50%" valign="top" style="border: 1px solid #30363d; padding: 15px; border-radius: 8px;">
-<div align="right"><code style="font-size: 10px; color: #8b949e; border: 1px solid #30363d; padding: 2px 6px; border-radius: 4px;">COMPLETED</code></div>
-<h4>📂 University Chatbot</h4>
-<p style="color: #8b949e; font-size: 13px; margin-top: 10px;">
-NLP-driven routing bot classifying intent models and extracting entity keywords to answer structured campus registry datasets.
-</p>
-<sub>
-<code>NLP</code> • <code>Intent Classification</code> • <code>Entity Recognition</code>
-</sub>
-</td>
-</tr>
 </table>
 
 ---
@@ -299,21 +276,11 @@ NLP-driven routing bot classifying intent models and extracting entity keywords 
 
 ---
 
-## 🤝 Let's Connect
+## 📫 Let's Connect
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
-<tr style="border: none; background: transparent;">
-<td style="border: 1px solid #30363d; padding: 20px; border-radius: 8px; background-color: #0d1117; text-align: center;">
-<p style="font-size: 15px; margin-top: 0; color: #f0f6fc;"><b>Open to opportunities in:</b></p>
-<p style="font-size: 14px; color: #58a6ff; margin-top: 6px;">
-<b>AI Engineering &nbsp;•&nbsp; Machine Learning Engineering &nbsp;•&nbsp; LLM Engineering &nbsp;•&nbsp; Generative AI &nbsp;•&nbsp; Applied AI</b>
-</p>
-<p style="font-size: 13.5px; color: #8b949e; margin-top: 10px; margin-bottom: 0; line-height: 1.5;">
-Let's collaborate on building the next generation of intelligent systems. Feel free to reach out via <a href="mailto:bvdmurali13@gmail.com" style="color: #bc8cff; text-decoration: none; font-weight: bold;">Email</a>, connect on <a href="https://www.linkedin.com/in/bvd-murali13" style="color: #58a6ff; text-decoration: none; font-weight: bold;">LinkedIn</a>, or check out my work on <a href="https://github.com/BvdMurali" style="color: #bc8cff; text-decoration: none; font-weight: bold;">GitHub</a>.
-</p>
-</td>
-</tr>
-</table>
+[<img src="https://img.shields.io/badge/PORTFOLIO-10B981?style=for-the-badge&logo=safari&logoColor=white" />](https://github.com/BvdMurali)
+[<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bvd-murali13)
+[<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:bvdmurali13@gmail.com)
 
 ---
 
