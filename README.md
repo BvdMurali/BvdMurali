@@ -1,17 +1,4 @@
-<div align="center">
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-spacing: 0px; border: none; font-family: monospace;">
-<tr style="border: none; background: transparent;">
-<td align="left" style="border: none; padding: 10px; color: #3fb950; font-size: 11px; font-weight: bold;">
-🟢 SYSTEM ONLINE
-</td>
-<td align="right" style="border: none; padding: 10px; color: #8b949e; font-size: 11px;">
-LOCATION: INDIA // TIMEZONE: GMT+5:30
-</td>
-</tr>
-</table>
-</div>
 
----
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
 <tr style="border: none; background: transparent;">
@@ -23,8 +10,9 @@ Building production-grade intelligent systems with NLP, LLMs, Agentic AI, Retrie
 </p>
 <br>
 <p align="left">
-<a href="mailto:bvdmurali@gmail.com"><img src="https://img.shields.io/badge/Email-bvdmurali%40gmail.com-0070f3?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/BvdMurali"><img src="https://img.shields.io/badge/GitHub-BvdMurali-bc8cff?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="mailto:bvdmurali13@gmail.com"><img src="https://img.shields.io/badge/Email-bvdmurali13%40gmail.com-0070f3?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/bvd-murali13"><img src="https://img.shields.io/badge/LinkedIn-bvd--murali13-bc8cff?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/BvdMurali"><img src="https://img.shields.io/badge/GitHub-BvdMurali-58a6ff?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 <br>
 <p align="left" style="margin-top: 10px;">
@@ -321,7 +309,7 @@ NLP-driven routing bot classifying intent models and extracting entity keywords 
 <b>AI Engineering &nbsp;•&nbsp; Machine Learning Engineering &nbsp;•&nbsp; LLM Engineering &nbsp;•&nbsp; Generative AI &nbsp;•&nbsp; Applied AI</b>
 </p>
 <p style="font-size: 13.5px; color: #8b949e; margin-top: 10px; margin-bottom: 0; line-height: 1.5;">
-Let's collaborate on building the next generation of intelligent systems. Feel free to reach out via <a href="mailto:bvdmurali@gmail.com" style="color: #bc8cff; text-decoration: none; font-weight: bold;">Email</a> or connect on <a href="https://github.com/BvdMurali" style="color: #58a6ff; text-decoration: none; font-weight: bold;">GitHub</a>.
+Let's collaborate on building the next generation of intelligent systems. Feel free to reach out via <a href="mailto:bvdmurali13@gmail.com" style="color: #bc8cff; text-decoration: none; font-weight: bold;">Email</a>, connect on <a href="https://www.linkedin.com/in/bvd-murali13" style="color: #58a6ff; text-decoration: none; font-weight: bold;">LinkedIn</a>, or check out my work on <a href="https://github.com/BvdMurali" style="color: #bc8cff; text-decoration: none; font-weight: bold;">GitHub</a>.
 </p>
 </td>
 </tr>
