@@ -125,7 +125,7 @@ Working on <b>Project Jarvis</b>, an AI-native automation platform combining Age
 <ul>
 <li><b>Large Language Models:</b> Focused on building pipeline wrappers and custom prompt execution logic.</li>
 <li><b>Retrieval-Augmented Generation:</b> Expert in semantic indexing, embeddings, and vector database queries.</li>
-<li><b>Agentic AI Systems:</b> Engineering multi-step, autonomous systems with logical loops and tool-execution modules.</li>
+<li><b>Agentic AI Systems:</b> Engineering multi-step, Autonomous systems with logical loops and tool-execution modules.</li>
 <li><b>NLP & Conversational AI:</b> Building intent classifiers and entity extraction models for reliable user routing.</li>
 <li><b>Production AI:</b> Designing scalable cloud endpoints, robust containerization, and automated workflows.</li>
 </ul>
