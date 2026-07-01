@@ -6,7 +6,7 @@
 <h1 align="left">BODDETI VEERA DURGA MURALI</h1>
 <h3 align="left">AI & MACHINE LEARNING ENGINEER</h3>
 <p align="left" style="color: #8b949e; font-size: 14px; line-height: 1.5; margin-top: 10px;">
-Building production-grade intelligent systems with NLP, LLMs, Agentic AI, Retrieval-Augmented Generation, and scalable MLOps architectures.
+Building production grade intelligent systems with NLP, LLMs, Agentic AI, Retrieval-Augmented Generation, and scalable MLOps architectures.
 </p>
 <br>
 <p align="left">
